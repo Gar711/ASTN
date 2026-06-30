@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "احبكك هشوميي",
+        name: "لاشيء",
         // Activity type number (0 = Playing).
         type: 4,
       },
@@ -384,7 +384,7 @@ export const botConfig = {
       // Channel type used for counters (typically "voice").
       type: "voice",
       // Channel name format. `{count}` is replaced automatically.
-      channelName: "{name}-{count}",
+      channelName: "1363259981398278186,
     },
     permissions: {
       // Default denied permissions for the counter channel.
